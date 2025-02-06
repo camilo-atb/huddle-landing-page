@@ -26,7 +26,7 @@ El objetivo principal de este proyecto era lograr que los usuarios pudieran:
 
 A continuación, muestro el resultado del proyecto en una pantalla de escritorio:
 
-![Resultado](images\\resultado.png)
+![Resultado](images/resultado.png) 
 
 ### Enlaces
 
